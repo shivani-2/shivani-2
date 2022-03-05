@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
- 🔭 I’m currently working on an <strong> Android App</strong> for StoccGuru. <br />
-🌱 I’m currently learning <strong>Flask API.</strong> <br />
+ 🔭 I’m currently interning at IIT Bombay. <br />
 👯 I’m looking to collaborate on an interesting new product. <br />
 📫 How to reach me: shivani.shenai2000@gmail.com
 </p>
