@@ -4,11 +4,7 @@
 <p align="center"> I am a final year Computer Science Undergrad from Mumbai University. </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shivani-2/shivani-2/master/lady.jpg" width="200px" height="200px">
-</p>
-
-<p align="center">
- 🔭 I’m currently interning at IIT Bombay. <br />
+ 🔭 I’m currently interning at BytesCare. <br />
 👯 I’m looking to collaborate on an interesting new product. <br />
 📫 How to reach me: shivani.shenai2000@gmail.com
 </p>
