@@ -1,11 +1,10 @@
 <h2 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> </h2>
 
 <h3 align="center"> My name is <strong>Shivani Shenai.</strong> </h3>
-<p align="center"> I am a final year Computer Science Undergrad from Mumbai University. </p>
+<p align="center"> I am a Computer Science Graduate from Mumbai University. </p>
 
 <p align="center">
  🔭 I’m currently interning at BytesCare. <br />
-👯 I’m looking to collaborate on an interesting new product. <br />
 📫 How to reach me: shivani.shenai2000@gmail.com
 </p>
 <br /> 
