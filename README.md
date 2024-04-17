@@ -4,7 +4,7 @@
 <p align="center"> I am a Computer Science Graduate from Mumbai University. </p>
 
 <p align="center">
- 🔭 I’m currently working at BytesCare. <br />
+ 🔭 I’m currently working at Teamnest as a Software Developer. <br />
 📫 How to reach me: shivani.shenai2@gmail.com
 </p>
 <br /> 
