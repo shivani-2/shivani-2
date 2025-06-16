@@ -10,7 +10,7 @@
 <br /> 
 <h3 align="center"> My Skills </h3>
 <p align="center"> 
-<strong>Software Tools – JIRA, SCRUM, Agile Methodologies, Balsamiq, Google Analytics, Mixpanel, Git, Github, Microsoft Excel, Google Sheets, Postman, AWS (EC2, S3, Lambda, API Gateway), Figma, Canva <br />
-<strong>Programming Languages – Python, Java, JavaScript, SQL, NoSQL, C/C++, HTML/CSS, Shell Scripting <br />
-<strong>Frameworks and Libraries –, Django, NodeJs, TensorFlow, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Bootstrap, Flask, Problem Solving, Data Analysis, Data Visualisation, Software Development Life Cycle (SDLC) <br />
+<strong>Software Tools <strong /> – JIRA, SCRUM, Agile Methodologies, Balsamiq, Google Analytics, Mixpanel, Git, Github, Microsoft Excel, Google Sheets, Postman, AWS (EC2, S3, Lambda, API Gateway), Figma, Canva <br />
+<strong>Programming Languages <strong /> – Python, Java, JavaScript, SQL, NoSQL, C/C++, HTML/CSS, Shell Scripting <br />
+<strong>Frameworks and Libraries <strong /> –, Django, NodeJs, TensorFlow, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Bootstrap, Flask, Problem Solving, Data Analysis, Data Visualisation, Software Development Life Cycle (SDLC) 
 </p>
