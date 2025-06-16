@@ -4,13 +4,13 @@
 <p align="center"> I am a Computer Science Graduate from Mumbai University. </p>
 
 <p align="center">
- 🔭 I’m currently working at Teamnest as a Software Developer. <br />
+ 🔭 I’m currently working as a Software Developer. <br />
 📫 How to reach me: shivani.shenai2@gmail.com
 </p>
 <br /> 
 <h3 align="center"> My Skills </h3>
 <p align="center"> 
-<strong>Programming Languages:</strong> Java, Python, PHP, SQL, PL-SQL <br />
-<strong>Web Technologies:</strong> HTML, CSS, Bootstrap, JavaScript, NodeJS <br />
-<strong>Software Tools and Frameworks:</strong> AWS, Lambda, MySQL, Git, Rest APIs, Flask, MongoDB, TensorFlow. 
+<strong>Software Tools – JIRA, SCRUM, Agile Methodologies, Balsamiq, Google Analytics, Mixpanel, Git, Github, Microsoft Excel, Google Sheets, Postman, AWS (EC2, S3, Lambda, API Gateway), Figma, Canva <br />
+<strong>Programming Languages – Python, Java, JavaScript, SQL, NoSQL, C/C++, HTML/CSS, Shell Scripting <br />
+<strong>Frameworks and Libraries –, Django, NodeJs, TensorFlow, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Bootstrap, Flask, Problem Solving, Data Analysis, Data Visualisation, Software Development Life Cycle (SDLC) <br />
 </p>
