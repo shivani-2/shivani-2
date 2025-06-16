@@ -12,5 +12,5 @@
 <p align="center"> 
 <b>Software Tools </b> – JIRA, SCRUM, Agile Methodologies, Balsamiq, Google Analytics, Mixpanel, Git, Github, Microsoft Excel, Google Sheets, Postman, AWS (EC2, S3, Lambda, API Gateway), Figma, Canva <br />
 <b>Programming Languages </b> – Python, Java, JavaScript, SQL, NoSQL, C/C++, HTML/CSS, Shell Scripting <br />
-<b>Frameworks and Libraries </b> –, Django, NodeJs, TensorFlow, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Bootstrap, Flask, Problem Solving, Data Analysis, Data Visualisation, Software Development Life Cycle (SDLC) 
+<b>Frameworks and Libraries </b> – Django, NodeJs, TensorFlow, OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Bootstrap, Flask, Problem Solving, Data Analysis, Data Visualisation, Software Development Life Cycle (SDLC) 
 </p>
